@@ -14,6 +14,7 @@
     "grunt-exec": "^1.0.1"
   },
   "scripts": {
+    "grunt": "./node_modules/grunt/bin/grunt",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
